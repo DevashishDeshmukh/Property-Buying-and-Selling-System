@@ -1,10 +1,16 @@
 # Property-Buying-and-Selling-System
+------------------------------------------------------------------------------------------------
+
+This is desktop application based on java.
+
+For database SQL is used.
+
+For frontend JavaFx is used.
+
+------------------------------------------------------------------------------------------------
 
 This  application provides a common platform for property buyers & sellers to locate properties of interest and source information about all properties.
 In this application buyers can do the payment directly to the property owner's account.
-
-This is desktop application based on java 
-
 
 Steps To register Property for selling:
 
