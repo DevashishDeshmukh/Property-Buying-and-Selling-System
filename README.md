@@ -30,7 +30,7 @@ Steps To Buy Property:
 3. Filter properties list as per choice/ preference.
 4. Click show details button to see all information about that specific property.
 5. In order to buy property, 
-   a. Click buy property
-   b. Choose payment option 
-   c. Complete payment 
-   d. Then transcation successful will be shown.
+   i.   Click buy property.
+   ii.  Choose payment option. 
+   iii. Complete payment. 
+   iv.  Then transcation successful will be shown.
